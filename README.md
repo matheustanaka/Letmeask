@@ -1,46 +1,51 @@
-# Getting Started with Create React App
+## <div style="text-align:center"><img src="./src/assets/images/logo.svg" /></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+![nlw6cover](./src/assets/images/nlw6cover.svg)
 
-In the project directory, you can run:
+# 🤙 Next Level Week - Letmeask
 
-### `yarn start`
+The application was made with the purpose to help content creators. So, your public can ask about anything and receive a feedback about it.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🧪 Technologies
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `yarn test`
+This project was developed using the following technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [React](https://reactjs.org/)
+- [Firebase](https://firebase.google.com/docs)
+- [TypeScript](https://www.typescriptlang.org/)
 
-### `yarn build`
+## 🚀 Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    # Clone the project
+    $ git clone https://github.com/matheustanaka/Letmeask.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    # Your Firebase account settings in the application.
+    I renamed the .env.example file to just .env
+    Change the variables according with your Firebase settings.
 
-### `yarn eject`
+    # Open the project folder
+    $ cd letmeask
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+    # Starting the server
+    $ yarn start
+    # You can see the application on localhost http://localhost:3000/
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔖 Layout
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You can see the layout through the links below:
 
-## Learn More
+- [Layout](<https://www.figma.com/file/V5iG9rULY5i0pKHUaSv3aI/Letmeask-(Copy)?node-id=0%3A1>)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📝 License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+
+Licensed under the [MIT License](LICENSE)
