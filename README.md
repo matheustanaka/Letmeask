@@ -1,6 +1,4 @@
-## <div style="text-align:center"><img src="./src/assets/images/logo.svg" /></div>
-
----
+<div style="text-align:center"><img src="./src/assets/images/logo.svg" /></div>
 
 ![nlw6cover](./src/assets/images/nlw6cover.svg)
 
@@ -10,8 +8,6 @@ The application was made with the purpose to help content creators. So, your pub
 
 ## 🧪 Technologies
 
----
-
 This project was developed using the following technologies:
 
 - [React](https://reactjs.org/)
@@ -19,8 +15,6 @@ This project was developed using the following technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 🚀 Getting Started
-
----
 
     # Clone the project
     $ git clone https://github.com/matheustanaka/Letmeask.git
@@ -38,14 +32,10 @@ This project was developed using the following technologies:
 
 ## 🔖 Layout
 
----
-
 You can see the layout through the links below:
 
 - [Layout](<https://www.figma.com/file/V5iG9rULY5i0pKHUaSv3aI/Letmeask-(Copy)?node-id=0%3A1>)
 
 ## 📝 License
-
----
 
 Licensed under the [MIT License](LICENSE)
