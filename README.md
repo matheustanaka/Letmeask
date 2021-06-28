@@ -1,10 +1,8 @@
-<div style="text-align:center"><img src="./src/assets/images/logo.svg" /></div>
-
-![nlw6cover](./src/assets/images/nlw6cover.svg)
-
 # 🤙 Next Level Week - Letmeask
 
 The application was made with the purpose to help content creators. So, your public can ask about anything and receive a feedback about it.
+
+![nlw6cover](./src/assets/images/nlw6cover.svg)
 
 ## 🧪 Technologies
 
