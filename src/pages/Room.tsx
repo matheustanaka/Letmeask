@@ -39,7 +39,7 @@ export function Room() {
       content: newQuestion,
       author: {
         name: user.name,
-        avatar: user.avatar,
+        avatar: user?.avatar,
       },
       isHighlighted: false,
       isAnswered: false,
@@ -64,6 +64,8 @@ export function Room() {
       });
     }
   }
+
+  // console.log(user?.avatar);
 
   return (
     <div id="page-room">
